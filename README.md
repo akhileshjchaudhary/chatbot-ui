@@ -1,2 +1,2 @@
 # chatbot-ui
-Ui for chatbot application
+Ui for chatbot
